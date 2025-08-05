@@ -17,33 +17,37 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 215 25% 20%;
 
-    --primary: 204 94% 30%;
+    /* Cores Petrobras - Azul primário */
+    --primary: 218 95% 32%;
     --primary-foreground: 0 0% 98%;
-    --primary-hover: 204 94% 35%;
+    --primary-hover: 218 95% 38%;
 
-    --secondary: 200 20% 95%;
-    --secondary-foreground: 215 25% 20%;
-    --secondary-hover: 200 20% 90%;
+    /* Cores Petrobras - Verde secundário */
+    --secondary: 142 76% 36%;
+    --secondary-foreground: 0 0% 98%;
+    --secondary-hover: 142 76% 42%;
 
     --muted: 200 20% 96%;
     --muted-foreground: 215 16% 47%;
 
+    /* Cores Petrobras - Verde accent */
     --accent: 142 76% 36%;
     --accent-foreground: 0 0% 98%;
-    --accent-hover: 142 76% 40%;
+    --accent-hover: 142 76% 42%;
 
     --success: 142 76% 36%;
     --success-foreground: 0 0% 98%;
 
-    --warning: 38 92% 50%;
-    --warning-foreground: 0 0% 98%;
+    /* Cores Petrobras - Amarelo warning */
+    --warning: 45 95% 50%;
+    --warning-foreground: 215 25% 20%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 98%;
 
     --border: 200 20% 88%;
     --input: 200 20% 88%;
-    --ring: 204 94% 30%;
+    --ring: 218 95% 32%;
 
     --radius: 0.5rem;
 
